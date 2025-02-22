@@ -9,39 +9,14 @@ public:
         for(auto it :s){
             if(it=='(' || it=='{'||it=='[')
                 st.push(it);
+            else{
                 if(st.empty())
                     return false;
-            else{
-                if(it==')'){
-                    if(st.top()=='('){
-                        st.pop();
-                        continue;
-                    }
-                    else 
-                        return false;
-                }
-                else if(it=='}'){
-                    if(st.top()=='{'){
-                        st.pop();
-                        continue;
-                    }
-                    else
-                        return false;
-                }
-                else if(it==']'){
-                    if(st.top()=='['){
-                        st.pop();
-                        continue;
-                    }
-                    else
-                        return false;
-                }
-
+                if((it==')' && st.top()!='(')||(it=='}' && st.top()!='{' )||(it==']' && st.top()!='['))
+                    return false;
+                st.pop();
             }
         }
-        if(!st.empty()){
-            return false;
-        }
-        return true;
+        return st.empty();
     }
 };
