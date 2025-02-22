@@ -17,20 +17,16 @@ public:
     }
     
     void pop() {
-        if(!st.empty())
-            st.pop();
+        st.pop();
     }
     
     int top() {
-        if(!st.empty())
-            return (st.top()).first;
-        return -1;
+        return (st.top()).first;
+
     }
     
     int getMin() {
-        if(!st.empty())
-            return(st.top()).second;
-        return -1;
+        return(st.top()).second;
     }
 };
 
