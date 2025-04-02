@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suhani-1203/Arrays/tree/master/0001-two-sum) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/suhani-1203/Arrays/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/suhani-1203/Arrays/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/suhani-1203/Arrays/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/suhani-1203/Arrays/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/suhani-1203/Arrays/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/suhani-1203/Arrays/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/suhani-1203/Arrays/tree/master/2032-largest-odd-number-in-string) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/suhani-1203/Arrays/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/suhani-1203/Arrays/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suhani-1203/Arrays/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/suhani-1203/Arrays/tree/master/0216-combination-sum-iii) |
