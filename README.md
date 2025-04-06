@@ -25,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/suhani-1203/Arrays/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suhani-1203/Arrays/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/suhani-1203/Arrays/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/suhani-1203/Arrays/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/suhani-1203/Arrays/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/suhani-1203/Arrays/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/suhani-1203/Arrays/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/suhani-1203/Arrays/tree/master/0455-assign-cookies) |
 ## Stack
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suhani-1203/Arrays/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/suhani-1203/Arrays/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/suhani-1203/Arrays/tree/master/0079-word-search) |
+| [0242-valid-anagram](https://github.com/suhani-1203/Arrays/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/suhani-1203/Arrays/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/suhani-1203/Arrays/tree/master/2032-largest-odd-number-in-string) |
 ## Math
