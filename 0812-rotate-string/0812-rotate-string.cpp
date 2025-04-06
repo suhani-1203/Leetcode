@@ -3,13 +3,8 @@ public:
     bool rotateString(string s, string goal) {
         if (s.length() != goal.length()) return false;
 
-        for (int i = 0; i < s.length(); i++) {
-            // Rotate s by i positions
-            string rotated = s.substr(i) + s.substr(0, i);
-            if (rotated == goal)
-                return true;
-        }
-
-        return false;
+        if((s+s).find(goal)==-1)
+            return false;
+        return true;
     }
 };
