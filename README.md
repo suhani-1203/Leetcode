@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/suhani-1203/Arrays/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/suhani-1203/Arrays/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/suhani-1203/Arrays/tree/master/0242-valid-anagram) |
+| [0812-rotate-string](https://github.com/suhani-1203/Arrays/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/suhani-1203/Arrays/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/suhani-1203/Arrays/tree/master/2032-largest-odd-number-in-string) |
 ## Math
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/suhani-1203/Arrays/tree/master/0079-word-search) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/suhani-1203/Arrays/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
