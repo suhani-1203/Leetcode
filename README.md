@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/suhani-1203/Arrays/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suhani-1203/Arrays/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/suhani-1203/Arrays/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/suhani-1203/Arrays/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/suhani-1203/Arrays/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suhani-1203/Arrays/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/suhani-1203/Arrays/tree/master/0136-single-number) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/suhani-1203/Arrays/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/suhani-1203/Arrays/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suhani-1203/Arrays/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/suhani-1203/Arrays/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/suhani-1203/Arrays/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/suhani-1203/Arrays/tree/master/0216-combination-sum-iii) |
 ## Depth-First Search
