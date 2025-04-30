@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/suhani-1203/Arrays/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suhani-1203/Arrays/tree/master/0503-next-greater-element-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/suhani-1203/Arrays/tree/master/1046-max-consecutive-ones-iii) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/suhani-1203/Arrays/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/suhani-1203/Arrays/tree/master/0070-climbing-stairs) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/suhani-1203/Arrays/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/suhani-1203/Arrays/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
