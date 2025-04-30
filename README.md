@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suhani-1203/Arrays/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/suhani-1203/Arrays/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/suhani-1203/Arrays/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suhani-1203/Arrays/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/suhani-1203/Arrays/tree/master/0079-word-search) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/suhani-1203/Arrays/tree/master/0004-median-of-two-sorted-arrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/suhani-1203/Arrays/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/suhani-1203/Arrays/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/suhani-1203/Arrays/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
