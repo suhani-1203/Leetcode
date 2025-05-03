@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/suhani-1203/Arrays/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/suhani-1203/Arrays/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/suhani-1203/Arrays/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/suhani-1203/Arrays/tree/master/0257-binary-tree-paths) |
 | [0812-rotate-string](https://github.com/suhani-1203/Arrays/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/suhani-1203/Arrays/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/suhani-1203/Arrays/tree/master/2032-largest-odd-number-in-string) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/suhani-1203/Arrays/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/suhani-1203/Arrays/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/suhani-1203/Arrays/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/suhani-1203/Arrays/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/suhani-1203/Arrays/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/suhani-1203/Arrays/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suhani-1203/Arrays/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/suhani-1203/Arrays/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/suhani-1203/Arrays/tree/master/0543-diameter-of-binary-tree) |
 ## Matrix
 |  |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/suhani-1203/Arrays/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/suhani-1203/Arrays/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suhani-1203/Arrays/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/suhani-1203/Arrays/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/suhani-1203/Arrays/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/suhani-1203/Arrays/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/suhani-1203/Arrays/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suhani-1203/Arrays/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/suhani-1203/Arrays/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/suhani-1203/Arrays/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
