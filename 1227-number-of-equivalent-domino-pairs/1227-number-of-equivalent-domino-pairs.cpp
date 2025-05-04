@@ -1,19 +1,21 @@
 class Solution {
-public:
+    public:
+    struct hash_pair{
+        size_t operator()(const pair<int,int>& p) const{
+            return hash<int>()(p.first*10+p.second);
+        }
+    };
     int numEquivDominoPairs(vector<vector<int>>& dominoes) {
-        unordered_map<int, int> count;
-    int res = 0;
-    
-    for (auto& d : dominoes) {
-        
-        int a = min(d[0], d[1]);
-        int b = max(d[0], d[1]);
-        int key = a * 10 + b;  
+        unordered_map<pair<int,int>,int,hash_pair> mpp;
 
-        res += count[key]; 
-        count[key]++;
-    }
+        for(auto d:dominoes){
+            if (d[0] > d[1]) swap(d[0], d[1]);
+                mpp[{d[0], d[1]}]++;
+        }
+        int count = 0;
+        for (auto& [d, freq] : mpp)
+            count += freq * (freq - 1) / 2;
     
-    return res;
+        return count;
     }
 };
