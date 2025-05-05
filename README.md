@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/suhani-1203/Arrays/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/suhani-1203/Arrays/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suhani-1203/Arrays/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0806-domino-and-tromino-tiling](https://github.com/suhani-1203/Arrays/tree/master/0806-domino-and-tromino-tiling) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/suhani-1203/Arrays/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Two Pointers
 |  |
