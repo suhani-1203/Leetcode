@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/suhani-1203/Arrays/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/suhani-1203/Arrays/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/suhani-1203/Arrays/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/suhani-1203/Arrays/tree/master/2048-build-array-from-permutation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/suhani-1203/Arrays/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Bit Manipulation
 |  |
@@ -242,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/suhani-1203/Arrays/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/suhani-1203/Arrays/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
