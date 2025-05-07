@@ -8,11 +8,13 @@ public:
     }
     if(sum>k)
         return;
+    if(nums[index]<=k){
+        temp.push_back(nums[index]);
+        recurSubset(ans,nums,temp,index,n,k-nums[index],sum);
+        temp.pop_back();
+    }
+
     recurSubset(ans,nums,temp,index+1,n,k,sum);
-    temp.push_back(nums[index]);
-    sum+=nums[index];
-    recurSubset(ans,nums,temp,index,n,k,sum);
-    temp.pop_back();
     return;
 }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
