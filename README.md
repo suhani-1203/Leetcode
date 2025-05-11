@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/suhani-1203/Arrays/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suhani-1203/Arrays/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/suhani-1203/Arrays/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/suhani-1203/Arrays/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/suhani-1203/Arrays/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/suhani-1203/Arrays/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/suhani-1203/Arrays/tree/master/0242-valid-anagram) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/suhani-1203/Arrays/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/suhani-1203/Arrays/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/suhani-1203/Arrays/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/suhani-1203/Arrays/tree/master/0070-climbing-stairs) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suhani-1203/Arrays/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/suhani-1203/Arrays/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/suhani-1203/Arrays/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/suhani-1203/Arrays/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suhani-1203/Arrays/tree/master/0040-combination-sum-ii) |
