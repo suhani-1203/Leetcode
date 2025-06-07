@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/suhani-1203/Arrays/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/suhani-1203/Arrays/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suhani-1203/Arrays/tree/master/0503-next-greater-element-ii) |
+| [0940-fruit-into-baskets](https://github.com/suhani-1203/Arrays/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/suhani-1203/Arrays/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/suhani-1203/Arrays/tree/master/1046-max-consecutive-ones-iii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/suhani-1203/Arrays/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/suhani-1203/Arrays/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/suhani-1203/Arrays/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/suhani-1203/Arrays/tree/master/0496-next-greater-element-i) |
+| [0940-fruit-into-baskets](https://github.com/suhani-1203/Arrays/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/suhani-1203/Arrays/tree/master/0966-binary-subarrays-with-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/suhani-1203/Arrays/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/suhani-1203/Arrays/tree/master/1370-count-number-of-nice-subarrays) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suhani-1203/Arrays/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/suhani-1203/Arrays/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/suhani-1203/Arrays/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/suhani-1203/Arrays/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/suhani-1203/Arrays/tree/master/1370-count-number-of-nice-subarrays) |
