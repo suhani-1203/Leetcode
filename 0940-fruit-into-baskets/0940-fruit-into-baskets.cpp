@@ -1,24 +1,15 @@
 class Solution {
 public:
-    int totalFruit(vector<int>& fruits) {
-        int n=fruits.size();
-        unordered_map<int,int> mpp;
-        int left=0,right=0,maxLen=0;
-
-        while(right<n){
-            mpp[fruits[right]]++;
-
-            if(mpp.size()>2){
-                mpp[fruits[left]]--;
-                if(mpp[fruits[left]]==0){
-                    mpp.erase(fruits[left]);
-                }
-                left++;
+        int totalFruit(vector<int> &tree) {
+        unordered_map<int, int> count;
+        int i, j;
+        for (i = 0, j = 0; j < tree.size(); ++j) {
+            count[tree[j]]++;
+            if (count.size() > 2) {
+                if (--count[tree[i]] == 0)count.erase(tree[i]);
+                i++;
             }
-            if(mpp.size()<=2)
-                maxLen=max(maxLen,right-left+1);
-            right++;
         }
-        return maxLen;
+        return j - i;
     }
 };
