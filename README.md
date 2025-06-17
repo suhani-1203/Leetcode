@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/suhani-1203/Arrays/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/suhani-1203/Arrays/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/suhani-1203/Arrays/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/suhani-1203/Arrays/tree/master/2050-count-good-numbers) |
 | [3321-type-of-triangle](https://github.com/suhani-1203/Arrays/tree/master/3321-type-of-triangle) |
 ## Greedy
 |  |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/suhani-1203/Arrays/tree/master/0002-add-two-numbers) |
+| [2050-count-good-numbers](https://github.com/suhani-1203/Arrays/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
