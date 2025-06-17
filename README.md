@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/suhani-1203/Arrays/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/suhani-1203/Arrays/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/suhani-1203/Arrays/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/suhani-1203/Arrays/tree/master/0070-climbing-stairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/suhani-1203/Arrays/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/suhani-1203/Arrays/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/suhani-1203/Arrays/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/suhani-1203/Arrays/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/suhani-1203/Arrays/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
