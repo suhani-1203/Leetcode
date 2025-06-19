@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/suhani-1203/Arrays/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/suhani-1203/Arrays/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/suhani-1203/Arrays/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/suhani-1203/Arrays/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suhani-1203/Arrays/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/suhani-1203/Arrays/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suhani-1203/Arrays/tree/master/0215-kth-largest-element-in-an-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/suhani-1203/Arrays/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/suhani-1203/Arrays/tree/master/0136-single-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/suhani-1203/Arrays/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Hash Table
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/suhani-1203/Arrays/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/suhani-1203/Arrays/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/suhani-1203/Arrays/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/suhani-1203/Arrays/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/suhani-1203/Arrays/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/suhani-1203/Arrays/tree/master/0257-binary-tree-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/suhani-1203/Arrays/tree/master/1993-sum-of-all-subset-xor-totals) |
