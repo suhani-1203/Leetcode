@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/suhani-1203/Arrays/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/suhani-1203/Arrays/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/suhani-1203/Arrays/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/suhani-1203/Arrays/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/suhani-1203/Arrays/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/suhani-1203/Arrays/tree/master/0257-binary-tree-paths) |
 | [0812-rotate-string](https://github.com/suhani-1203/Arrays/tree/master/0812-rotate-string) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/suhani-1203/Arrays/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/suhani-1203/Arrays/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suhani-1203/Arrays/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/suhani-1203/Arrays/tree/master/0131-palindrome-partitioning) |
 | [0806-domino-and-tromino-tiling](https://github.com/suhani-1203/Arrays/tree/master/0806-domino-and-tromino-tiling) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/suhani-1203/Arrays/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/suhani-1203/Arrays/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/suhani-1203/Arrays/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/suhani-1203/Arrays/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/suhani-1203/Arrays/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/suhani-1203/Arrays/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/suhani-1203/Arrays/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/suhani-1203/Arrays/tree/master/0257-binary-tree-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/suhani-1203/Arrays/tree/master/1993-sum-of-all-subset-xor-totals) |
