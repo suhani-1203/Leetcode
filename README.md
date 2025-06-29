@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/suhani-1203/Arrays/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/suhani-1203/Arrays/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/suhani-1203/Arrays/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/suhani-1203/Arrays/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/suhani-1203/Arrays/tree/master/0070-climbing-stairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/suhani-1203/Arrays/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/suhani-1203/Arrays/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/suhani-1203/Arrays/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/suhani-1203/Arrays/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/suhani-1203/Arrays/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/suhani-1203/Arrays/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/suhani-1203/Arrays/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suhani-1203/Arrays/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/suhani-1203/Arrays/tree/master/0131-palindrome-partitioning) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/suhani-1203/Arrays/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/suhani-1203/Arrays/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
