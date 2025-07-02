@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/suhani-1203/Arrays/tree/master/0503-next-greater-element-ii) |
 | [0940-fruit-into-baskets](https://github.com/suhani-1203/Arrays/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/suhani-1203/Arrays/tree/master/0966-binary-subarrays-with-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/suhani-1203/Arrays/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/suhani-1203/Arrays/tree/master/1046-max-consecutive-ones-iii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/suhani-1203/Arrays/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/suhani-1203/Arrays/tree/master/1370-count-number-of-nice-subarrays) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/suhani-1203/Arrays/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/suhani-1203/Arrays/tree/master/0198-house-robber) |
 | [0806-domino-and-tromino-tiling](https://github.com/suhani-1203/Arrays/tree/master/0806-domino-and-tromino-tiling) |
+| [0967-minimum-falling-path-sum](https://github.com/suhani-1203/Arrays/tree/master/0967-minimum-falling-path-sum) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/suhani-1203/Arrays/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/suhani-1203/Arrays/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Two Pointers
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/suhani-1203/Arrays/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/suhani-1203/Arrays/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/suhani-1203/Arrays/tree/master/0079-word-search) |
+| [0967-minimum-falling-path-sum](https://github.com/suhani-1203/Arrays/tree/master/0967-minimum-falling-path-sum) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/suhani-1203/Arrays/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## String Matching
 |  |
