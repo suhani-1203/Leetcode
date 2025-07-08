@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/suhani-1203/Arrays/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/suhani-1203/Arrays/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suhani-1203/Arrays/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/suhani-1203/Arrays/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/suhani-1203/Arrays/tree/master/1078-remove-outermost-parentheses) |
 ## Design
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/suhani-1203/Arrays/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/suhani-1203/Arrays/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/suhani-1203/Arrays/tree/master/0257-binary-tree-paths) |
+| [0678-valid-parenthesis-string](https://github.com/suhani-1203/Arrays/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/suhani-1203/Arrays/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/suhani-1203/Arrays/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/suhani-1203/Arrays/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/suhani-1203/Arrays/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/suhani-1203/Arrays/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/suhani-1203/Arrays/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/suhani-1203/Arrays/tree/master/0678-valid-parenthesis-string) |
 | [2032-largest-odd-number-in-string](https://github.com/suhani-1203/Arrays/tree/master/2032-largest-odd-number-in-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/suhani-1203/Arrays/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Dynamic Programming
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/suhani-1203/Arrays/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/suhani-1203/Arrays/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/suhani-1203/Arrays/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/suhani-1203/Arrays/tree/master/0678-valid-parenthesis-string) |
 | [0806-domino-and-tromino-tiling](https://github.com/suhani-1203/Arrays/tree/master/0806-domino-and-tromino-tiling) |
 | [0967-minimum-falling-path-sum](https://github.com/suhani-1203/Arrays/tree/master/0967-minimum-falling-path-sum) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/suhani-1203/Arrays/tree/master/2061-painting-a-grid-with-three-different-colors) |
