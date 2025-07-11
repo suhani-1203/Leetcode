@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/suhani-1203/Arrays/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/suhani-1203/Arrays/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/suhani-1203/Arrays/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/suhani-1203/Arrays/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/suhani-1203/Arrays/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/suhani-1203/Arrays/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/suhani-1203/Arrays/tree/master/0057-insert-interval) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/suhani-1203/Arrays/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/suhani-1203/Arrays/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/suhani-1203/Arrays/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/suhani-1203/Arrays/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/suhani-1203/Arrays/tree/master/0073-set-matrix-zeroes) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/suhani-1203/Arrays/tree/master/0054-spiral-matrix) |
 | [2048-build-array-from-permutation](https://github.com/suhani-1203/Arrays/tree/master/2048-build-array-from-permutation) |
 ## Graph
 |  |
