@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/suhani-1203/Arrays/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/suhani-1203/Arrays/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/suhani-1203/Arrays/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/suhani-1203/Arrays/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/suhani-1203/Arrays/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/suhani-1203/Arrays/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/suhani-1203/Arrays/tree/master/0055-jump-game) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/suhani-1203/Arrays/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/suhani-1203/Arrays/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/suhani-1203/Arrays/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/suhani-1203/Arrays/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/suhani-1203/Arrays/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/suhani-1203/Arrays/tree/master/0062-unique-paths) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/suhani-1203/Arrays/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/suhani-1203/Arrays/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/suhani-1203/Arrays/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/suhani-1203/Arrays/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/suhani-1203/Arrays/tree/master/0064-minimum-path-sum) |
