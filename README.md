@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/suhani-1203/Arrays/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/suhani-1203/Arrays/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/suhani-1203/Arrays/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/suhani-1203/Arrays/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/suhani-1203/Arrays/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/suhani-1203/Arrays/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/suhani-1203/Arrays/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/suhani-1203/Arrays/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/suhani-1203/Arrays/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/suhani-1203/Arrays/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/suhani-1203/Arrays/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/suhani-1203/Arrays/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/suhani-1203/Arrays/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/suhani-1203/Arrays/tree/master/1036-rotting-oranges) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/suhani-1203/Arrays/tree/master/1663-detect-cycles-in-2d-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/suhani-1203/Arrays/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## String Matching
 |  |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/suhani-1203/Arrays/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/suhani-1203/Arrays/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/suhani-1203/Arrays/tree/master/1036-rotting-oranges) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/suhani-1203/Arrays/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -388,4 +392,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/suhani-1203/Arrays/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/suhani-1203/Arrays/tree/master/0547-number-of-provinces) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/suhani-1203/Arrays/tree/master/1663-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
