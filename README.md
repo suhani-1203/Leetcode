@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/suhani-1203/Arrays/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/suhani-1203/Arrays/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/suhani-1203/Arrays/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/suhani-1203/Arrays/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/suhani-1203/Arrays/tree/master/1046-max-consecutive-ones-iii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/suhani-1203/Arrays/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/suhani-1203/Arrays/tree/master/1370-count-number-of-nice-subarrays) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/suhani-1203/Arrays/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/suhani-1203/Arrays/tree/master/0200-number-of-islands) |
 | [0967-minimum-falling-path-sum](https://github.com/suhani-1203/Arrays/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/suhani-1203/Arrays/tree/master/1036-rotting-oranges) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/suhani-1203/Arrays/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## String Matching
 |  |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/suhani-1203/Arrays/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/suhani-1203/Arrays/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/suhani-1203/Arrays/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/suhani-1203/Arrays/tree/master/1036-rotting-oranges) |
 ## Sliding Window
 |  |
 | ------- |
