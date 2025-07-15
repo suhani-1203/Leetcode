@@ -1,40 +1,60 @@
 class Solution {
 public:
     void solve(vector<vector<char>>& board) {
-        int m=board.size();
-        int n=board[0].size();
-        queue<pair<int,int>> q;
-        vector<vector<int>> visited(m,vector<int>(n,0));
+        int m = board.size();
+        if (m == 0) return;
+        int n = board[0].size();
 
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if((i==0||i==m-1||j==0||j==n-1) && board[i][j]=='O'){
-                    visited[i][j]=1;
-                    q.push({i,j});
-                }
-                else if(board[i][j]=='X')
-                    visited[i][j]=1;
+        queue<pair<int, int>> q;
+
+        // Step 1: Add all border 'O's to queue
+        for (int i = 0; i < m; i++) {
+            if (board[i][0] == 'O') {
+                board[i][0] = 'T';
+                q.push({i, 0});
+            }
+            if (board[i][n - 1] == 'O') {
+                board[i][n - 1] = 'T';
+                q.push({i, n - 1});
             }
         }
-        int delRow[]={-1,0,1,0};
-        int delCol[]={0,1,0,-1};
-        while(!q.empty()){
-            auto[row,col]=q.front();
+        for (int j = 0; j < n; j++) {
+            if (board[0][j] == 'O') {
+                board[0][j] = 'T';
+                q.push({0, j});
+            }
+            if (board[m - 1][j] == 'O') {
+                board[m - 1][j] = 'T';
+                q.push({m - 1, j});
+            }
+        }
+
+        int delRow[] = {-1, 0, 1, 0};
+        int delCol[] = {0, 1, 0, -1};
+
+        // Step 2: BFS from border 'O's
+        while (!q.empty()) {
+            auto [row, col] = q.front();
             q.pop();
 
-            for(int i=0;i<4;i++){
-                int nrow=row+delRow[i];
-                int ncol=col+delCol[i];
-                if(nrow>=0 && nrow<m && ncol>=0 && ncol<n && !visited[nrow][ncol] && board[nrow][ncol]=='O'){
-                    visited[nrow][ncol]=1;
-                    q.push({nrow,ncol});
+            for (int k = 0; k < 4; k++) {
+                int nrow = row + delRow[k];
+                int ncol = col + delCol[k];
+                if (nrow >= 0 && nrow < m && ncol >= 0 && ncol < n &&
+                    board[nrow][ncol] == 'O') {
+                    board[nrow][ncol] = 'T';
+                    q.push({nrow, ncol});
                 }
             }
         }
-        for(int i=1;i<m-1;i++){
-            for(int j=1;j<n-1;j++){
-                if(board[i][j]=='O' &&  !visited[i][j])
-                    board[i][j]='X';
+
+        // Step 3: Flip cells
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (board[i][j] == 'O')
+                    board[i][j] = 'X';
+                else if (board[i][j] == 'T')
+                    board[i][j] = 'O';
             }
         }
     }
