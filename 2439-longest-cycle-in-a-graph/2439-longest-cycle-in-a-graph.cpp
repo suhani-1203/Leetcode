@@ -1,50 +1,36 @@
 class Solution {
 public:
-    int dfs(int node, vector<vector<int>> &adj,
-            vector<int>& visNode,
-            vector<int>& timeInPath,
-            int currTime,
-            int& maxCycleLen) {
-        
-        visNode[node] = 1;
-        timeInPath[node] = currTime;
-        
-        for (auto it : adj[node]) {
-            if (!visNode[it]) {
-                dfs(it, adj, visNode, timeInPath, currTime + 1, maxCycleLen);
-            }
-            else if (timeInPath[it] != -1) {
-                // Found a back edge → compute cycle length
-                int cycleLen = currTime - timeInPath[it] + 1;
-                maxCycleLen = max(maxCycleLen, cycleLen);
-            }
-        }
-        
-        timeInPath[node] = -1; // backtrack
-        return maxCycleLen;
-    }
-    
     int longestCycle(vector<int>& edges) {
-        int V = edges.size();
-        
-        vector<vector<int>> adj(V);
-        for (int u = 0; u < V; u++) {
-            int v = edges[u];
-            if (v != -1) {
-                adj[u].push_back(v);
+        int n = edges.size();
+        vector<int> visited(n, -1);
+        int maxCycle = -1;
+        int time = 0;
+
+        for (int i = 0; i < n; i++) {
+            if (visited[i] != -1)
+                continue;
+
+            int curr = i;
+            unordered_map<int, int> pathTime;
+
+            while (curr != -1) {
+                if (visited[curr] != -1) {
+                    // Found a previously visited node
+                    if (pathTime.count(curr)) {
+                        int cycleLen = time - pathTime[curr];
+                        maxCycle = max(maxCycle, cycleLen);
+                    }
+                    break;
+                }
+
+                visited[curr] = time;
+                pathTime[curr] = time;
+                time++;
+                curr = edges[curr];
             }
         }
 
-        vector<int> visNode(V, 0);
-        vector<int> timeInPath(V, -1);
-        int maxCycleLen = -1;
-        
-        for (int i = 0; i < V; i++) {
-            if (!visNode[i]) {
-                dfs(i, adj, visNode, timeInPath, 0, maxCycleLen);
-            }
-        }
-        
-        return maxCycleLen;
+        return maxCycle;
     }
 };
+
