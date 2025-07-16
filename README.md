@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/suhani-1203/Arrays/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/suhani-1203/Arrays/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/suhani-1203/Arrays/tree/master/1663-detect-cycles-in-2d-grid) |
+| [2439-longest-cycle-in-a-graph](https://github.com/suhani-1203/Arrays/tree/master/2439-longest-cycle-in-a-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/suhani-1203/Arrays/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/suhani-1203/Arrays/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/suhani-1203/Arrays/tree/master/1876-map-of-highest-peak) |
+| [2439-longest-cycle-in-a-graph](https://github.com/suhani-1203/Arrays/tree/master/2439-longest-cycle-in-a-graph) |
 ## Sliding Window
 |  |
 | ------- |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/suhani-1203/Arrays/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/suhani-1203/Arrays/tree/master/0801-is-graph-bipartite) |
+| [2439-longest-cycle-in-a-graph](https://github.com/suhani-1203/Arrays/tree/master/2439-longest-cycle-in-a-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/suhani-1203/Arrays/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
@@ -414,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/suhani-1203/Arrays/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/suhani-1203/Arrays/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/suhani-1203/Arrays/tree/master/1663-detect-cycles-in-2d-grid) |
+## Topological Sort
+|  |
+| ------- |
+| [2439-longest-cycle-in-a-graph](https://github.com/suhani-1203/Arrays/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
