@@ -2,34 +2,32 @@ class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         vector<vector<int>> adj(numCourses);
-        vector<int> indegree(numCourses, 0);
-
-        // Build graph and compute indegree
-        for (auto& pre : prerequisites) {
-            adj[pre[1]].push_back(pre[0]);
-            indegree[pre[0]]++;
+        vector<int> inorder(numCourses,0);
+        for(auto it: prerequisites){
+            int u=it[0];
+            int v=it[1];
+            adj[v].push_back(u);
+            inorder[u]++;
         }
-
-        // Queue for Kahn's algorithm
+        if(find(inorder.begin(),inorder.end(),0)==inorder.end())
+            return false;
         queue<int> q;
-        for (int i = 0; i < numCourses; ++i) {
-            if (indegree[i] == 0)
+        for(int i=0;i<numCourses;i++){
+            if(inorder[i]==0)
                 q.push(i);
         }
-
-        int count = 0;
-        while (!q.empty()) {
-            int course = q.front();
+        int cnt=0;
+        while(!q.empty()){
+            int node=q.front();
             q.pop();
-            count++;
+            cnt++;
 
-            for (int neighbor : adj[course]) {
-                indegree[neighbor]--;
-                if (indegree[neighbor] == 0)
-                    q.push(neighbor);
+            for(auto nbr:adj[node]){
+                inorder[nbr]--;
+                if(inorder[nbr]==0)
+                    q.push(nbr);
             }
         }
-
-        return count == numCourses;
+        return cnt==numCourses;
     }
 };
