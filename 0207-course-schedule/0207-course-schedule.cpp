@@ -9,8 +9,7 @@ public:
             adj[v].push_back(u);
             inorder[u]++;
         }
-        if(find(inorder.begin(),inorder.end(),0)==inorder.end())
-            return false;
+
         queue<int> q;
         for(int i=0;i<numCourses;i++){
             if(inorder[i]==0)
