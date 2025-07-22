@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/suhani-1203/Arrays/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/suhani-1203/Arrays/tree/master/0733-flood-fill) |
 | [0940-fruit-into-baskets](https://github.com/suhani-1203/Arrays/tree/master/0940-fruit-into-baskets) |
+| [0943-sum-of-subarray-minimums](https://github.com/suhani-1203/Arrays/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/suhani-1203/Arrays/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/suhani-1203/Arrays/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/suhani-1203/Arrays/tree/master/1036-rotting-oranges) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/suhani-1203/Arrays/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suhani-1203/Arrays/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/suhani-1203/Arrays/tree/master/0678-valid-parenthesis-string) |
+| [0943-sum-of-subarray-minimums](https://github.com/suhani-1203/Arrays/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/suhani-1203/Arrays/tree/master/1078-remove-outermost-parentheses) |
 ## Design
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/suhani-1203/Arrays/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/suhani-1203/Arrays/tree/master/0678-valid-parenthesis-string) |
 | [0806-domino-and-tromino-tiling](https://github.com/suhani-1203/Arrays/tree/master/0806-domino-and-tromino-tiling) |
+| [0943-sum-of-subarray-minimums](https://github.com/suhani-1203/Arrays/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/suhani-1203/Arrays/tree/master/0967-minimum-falling-path-sum) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/suhani-1203/Arrays/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/suhani-1203/Arrays/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/suhani-1203/Arrays/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/suhani-1203/Arrays/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suhani-1203/Arrays/tree/master/0503-next-greater-element-ii) |
+| [0943-sum-of-subarray-minimums](https://github.com/suhani-1203/Arrays/tree/master/0943-sum-of-subarray-minimums) |
 ## Memoization
 |  |
 | ------- |
