@@ -1,37 +1,28 @@
 class Solution {
 public:
-    const int mod=1e9+7;
     int sumSubarrayMins(vector<int>& arr) {
-        int n=arr.size();
-        stack<int> st;
-        //creating nse vector for each element
-        vector<int> nse(n,n);
-        for(int i=n-1;i>=0;i--){
-            while(!st.empty() && arr[st.top()]>=arr[i])
-                st.pop();
-            if(!st.empty())
-                nse[i]=st.top();
-            st.push(i);
-        }
-        while(!st.empty())
-            st.pop();
-        // creating pse vector for each element
-        vector<int> pse(n,-1);
-        for(int i=0;i<n;i++){
-            while(!st.empty() && arr[st.top()]>arr[i])
-                st.pop();
-            if(!st.empty())
-                pse[i]=st.top();
-            st.push(i);
-        }
-        // finding contribution of each element in minimums
-        int sum=0;
-        for(int i=0;i<n;i++){
-            int left=i-pse[i];
-            int right=nse[i]-i;
+        int n = arr.size();
+        arr.push_back(0);  // sentinel to flush stack at end
+        stack<pair<int, int>> st;  // pair: (value, count)
+        long long res = 0, cur = 0;
+        int mod = 1e9 + 7;
 
-            sum=(sum+1LL*left*right%mod*arr[i]%mod)%mod;
+        for (int i = 0; i <= n; ++i) {
+            int val = (i < n) ? arr[i] : 0;
+            int count = 1;
+
+            while (!st.empty() && st.top().first >= val) {
+                auto [prevVal, prevCount] = st.top();
+                st.pop();
+                count += prevCount;
+                cur -= 1LL * prevVal * prevCount;
+            }
+
+            st.emplace(val, count);
+            cur += 1LL * val * count;
+            res = (res + cur) % mod;
         }
-        return sum;
+
+        return res;
     }
 };
