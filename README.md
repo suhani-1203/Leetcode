@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/suhani-1203/Arrays/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/suhani-1203/Arrays/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/suhani-1203/Arrays/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhani-1203/Arrays/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/suhani-1203/Arrays/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/suhani-1203/Arrays/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suhani-1203/Arrays/tree/master/0215-kth-largest-element-in-an-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/suhani-1203/Arrays/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/suhani-1203/Arrays/tree/master/0042-trapping-rain-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhani-1203/Arrays/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/suhani-1203/Arrays/tree/master/0455-assign-cookies) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/suhani-1203/Arrays/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Backtracking
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/suhani-1203/Arrays/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhani-1203/Arrays/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1046-max-consecutive-ones-iii](https://github.com/suhani-1203/Arrays/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
