@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/suhani-1203/Arrays/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/suhani-1203/Arrays/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/suhani-1203/Arrays/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/suhani-1203/Arrays/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/suhani-1203/Arrays/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/suhani-1203/Arrays/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/suhani-1203/Arrays/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/suhani-1203/Arrays/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/suhani-1203/Arrays/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/suhani-1203/Arrays/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/suhani-1203/Arrays/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/suhani-1203/Arrays/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/suhani-1203/Arrays/tree/master/1876-map-of-highest-peak) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/suhani-1203/Arrays/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/suhani-1203/Arrays/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/suhani-1203/Arrays/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/suhani-1203/Arrays/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/suhani-1203/Arrays/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/suhani-1203/Arrays/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/suhani-1203/Arrays/tree/master/1876-map-of-highest-peak) |
 | [2439-longest-cycle-in-a-graph](https://github.com/suhani-1203/Arrays/tree/master/2439-longest-cycle-in-a-graph) |
