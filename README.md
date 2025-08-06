@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/suhani-1203/Arrays/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/suhani-1203/Arrays/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/suhani-1203/Arrays/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/suhani-1203/Arrays/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/suhani-1203/Arrays/tree/master/1876-map-of-highest-peak) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/suhani-1203/Arrays/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/suhani-1203/Arrays/tree/master/2048-build-array-from-permutation) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/suhani-1203/Arrays/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/suhani-1203/Arrays/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/suhani-1203/Arrays/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/suhani-1203/Arrays/tree/master/1753-path-with-minimum-effort) |
 | [2439-longest-cycle-in-a-graph](https://github.com/suhani-1203/Arrays/tree/master/2439-longest-cycle-in-a-graph) |
 ## Matrix
 |  |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/suhani-1203/Arrays/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/suhani-1203/Arrays/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/suhani-1203/Arrays/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/suhani-1203/Arrays/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/suhani-1203/Arrays/tree/master/1876-map-of-highest-peak) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/suhani-1203/Arrays/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## String Matching
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/suhani-1203/Arrays/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/suhani-1203/Arrays/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/suhani-1203/Arrays/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/suhani-1203/Arrays/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/suhani-1203/Arrays/tree/master/1876-map-of-highest-peak) |
 | [2439-longest-cycle-in-a-graph](https://github.com/suhani-1203/Arrays/tree/master/2439-longest-cycle-in-a-graph) |
 ## Sliding Window
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/suhani-1203/Arrays/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suhani-1203/Arrays/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1046-max-consecutive-ones-iii](https://github.com/suhani-1203/Arrays/tree/master/1046-max-consecutive-ones-iii) |
+| [1753-path-with-minimum-effort](https://github.com/suhani-1203/Arrays/tree/master/1753-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -402,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/suhani-1203/Arrays/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suhani-1203/Arrays/tree/master/0215-kth-largest-element-in-an-array) |
+| [1753-path-with-minimum-effort](https://github.com/suhani-1203/Arrays/tree/master/1753-path-with-minimum-effort) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/suhani-1203/Arrays/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Merge Sort
 |  |
@@ -453,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/suhani-1203/Arrays/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/suhani-1203/Arrays/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/suhani-1203/Arrays/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/suhani-1203/Arrays/tree/master/1753-path-with-minimum-effort) |
 ## Topological Sort
 |  |
 | ------- |
