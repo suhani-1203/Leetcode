@@ -466,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/suhani-1203/Arrays/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/suhani-1203/Arrays/tree/master/0210-course-schedule-ii) |
 | [2439-longest-cycle-in-a-graph](https://github.com/suhani-1203/Arrays/tree/master/2439-longest-cycle-in-a-graph) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/suhani-1203/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
