@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/suhani-1203/Arrays/tree/master/1876-map-of-highest-peak) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/suhani-1203/Arrays/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/suhani-1203/Arrays/tree/master/2048-build-array-from-permutation) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/suhani-1203/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/suhani-1203/Arrays/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/suhani-1203/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/suhani-1203/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/suhani-1203/Arrays/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/suhani-1203/Arrays/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/suhani-1203/Arrays/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/suhani-1203/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/suhani-1203/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/suhani-1203/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/suhani-1203/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/suhani-1203/Arrays/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/suhani-1203/Arrays/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/suhani-1203/Arrays/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/suhani-1203/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2384-root-equals-sum-of-children](https://github.com/suhani-1203/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/suhani-1203/Arrays/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/suhani-1203/Arrays/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/suhani-1203/Arrays/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/suhani-1203/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2384-root-equals-sum-of-children](https://github.com/suhani-1203/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
