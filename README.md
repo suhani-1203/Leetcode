@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/suhani-1203/Arrays/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/suhani-1203/Arrays/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/suhani-1203/Arrays/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1732-find-the-highest-altitude](https://github.com/suhani-1203/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1753-path-with-minimum-effort](https://github.com/suhani-1203/Arrays/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/suhani-1203/Arrays/tree/master/1876-map-of-highest-peak) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/suhani-1203/Arrays/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/suhani-1203/Arrays/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/suhani-1203/Arrays/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/suhani-1203/Arrays/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1732-find-the-highest-altitude](https://github.com/suhani-1203/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/suhani-1203/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/suhani-1203/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Monotonic Stack
